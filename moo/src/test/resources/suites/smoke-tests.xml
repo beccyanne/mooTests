@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Web Smoke Tests" verbose="1">
+    <test name="Product Search Tests">
+        <classes>
+            <class name="com.moo.tests.search.ProductSearchTests"></class>
+        </classes>
+    </test>
+    <test name="Sign In Tests">
+        <classes>
+            <class name="com.moo.tests.login.SignInTests"></class>
+        </classes>
+    </test>
+    <test name="Calculator Tests">
+        <classes>
+            <class name="com.moo.tests.calculator.CalculatorTests"></class>
+        </classes>
+    </test>
+</suite>
