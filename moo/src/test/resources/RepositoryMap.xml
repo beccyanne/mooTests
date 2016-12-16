@@ -5,7 +5,7 @@
             <version id="2.23">
                 <bitrate thirtytwobit="true" sixtyfourbit="true">
                     <filelocation>http://chromedriver.storage.googleapis.com/2.23/chromedriver_win64.zip</filelocation>
-                    <hash>847bf2497eab7aac5cf0622e49939f976087aae4</hash>
+                    <hash>6cf22a7f474695a7b02c4f8e6bbe35b2441c8eb2</hash>
                     <hashtype>sha1</hashtype>
                 </bitrate>
             </version>
