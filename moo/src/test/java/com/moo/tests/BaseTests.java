@@ -26,7 +26,7 @@ public class BaseTests {
             System.setProperty("webdriver.chrome.driver", "src/test/resources/selenium_standalone_binaries/osx/googlechrome/64bit/chromedriver");
         }
         else if(os != null && os.contains("Win")) {
-            System.setProperty("webdriver.chrome.driver", "src/test/resources/selenium_standalone_binaries/win/googlechrome/32bit/chromedriver.exe");
+            System.setProperty("webdriver.chrome.driver", "src/test/resources/selenium_standalone_binaries/windows/googlechrome/64bit/chromedriver.exe");
         }
         else {
             System.setProperty("webdriver.chrome.driver", "src/test/resources/selenium_standalone_binaries/linux/googlechrome/64bit/chromedriver");
