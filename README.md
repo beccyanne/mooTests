@@ -1,7 +1,7 @@
 # mooTests
 <strong>Pre-requisites</strong>
-To run the tests you need google chrome installed
-The tests automatically download the appropriate drivers for the OS you are using - tested on Mac only but should also work on Windows.
+<ul><li>To run the tests you need google chrome installed</li>
+<li>The tests automatically download the appropriate drivers for the OS you are using - tested on Mac only but should also work on Windows.</li>
 <strong>To execute the tests</strong>
 After cloning the project navigate to the folder where it has the pom.xml file
 then run:
